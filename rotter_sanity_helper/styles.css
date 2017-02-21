@@ -1,0 +1,14 @@
+#rotter_sanity_show_comments {
+    border: 1px #808080 solid;
+    margin-top: -28px;
+    width: 100%;
+    background: #71b7e6;
+    font-weight: bold;
+    color: #009;
+}
+.rotter_sanity_options {
+    font-size: 12px;
+}
+.rotter_sanity_options input {
+    height: 9px;
+}
